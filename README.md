@@ -111,17 +111,24 @@ _The link_ https://compphysics.github.io/MLErasmus/doc/web/course.html gives you
 | | Video at https://www.uio.no/studier/emner/matnat/fys/FYS4411/v21/forelesningsvideoer/LectureJan18.mp4?vrtx=view-as-webpage |
 | | Handwritten notes at https://github.com/CompPhysics/MLErasmus/blob/master/doc/HandwrittenNotes/NotesJan18.pdf  |
 | | - _Laboratory 2pm-5pm_: Getting familiar with Git, GitHub, installing Python packages and exercise 1 (PDBS and KW) |
-| Tuesday | - _Lecture 9am-1130am_: Linear Regression and Logistic Regression (MHJ) |
+| | Video on using Git and GitHub https://mediaspace.msu.edu/media/t/1_8mgx3cyf |
+| Tuesday | - _Lecture 9am-1130am_: Linear Regression, from ordinary least squares to Lasso and Ridge (MHJ) |
 | Recommended readings |  Bishop Sections 3.1 and Hastie et al chapter 3 |
 | | Lecture material at https://compphysics.github.io/MLErasmus/doc/web/course.html  day 2 | 
+| | Video at https://www.uio.no/studier/emner/matnat/fys/FYS4411/v21/forelesningsvideoer/LectureJan19.mp4?vrtx=view-as-webpage |
+| | Handwritten notes at https://github.com/CompPhysics/MLErasmus/blob/master/doc/HandwrittenNotes/NotesJan19.pdf  |
 | | - _Tuesday Laboratory 2pm-5pm:_ Computational Exercises (PDBS and KW), exercise set 2 |
-| Wednesday | - _Lecture 9am-1130am_: Regression and Bias-Variance Tradeoff (MHJ) |
+| Wednesday | - _Lecture 9am-1130am_: Linear Regression and Bias-Variance Tradeoff (MHJ) |
 | Recommended readings |  Bishop Section 3.2 and Hastie et al chapter 3 |
 | | Lecture material at https://compphysics.github.io/MLErasmus/doc/web/course.html  day 3 | 
+| | Video at https://www.uio.no/studier/emner/matnat/fys/FYS4411/v21/forelesningsvideoer/LectureJan20.mp4?vrtx=view-as-webpage |
+| | Handwritten notes at https://github.com/CompPhysics/MLErasmus/blob/master/doc/HandwrittenNotes/NotesJan20.pdf  |
 | | - _Laboratory 2pm-5pm_: Computational Exercises (PDBS and KW), exercise sets 2 and 3 |
 | Thursday | - _Lecture 9am-1130am_: Bias-Variance tradeoff, Logistic Regression and Optimization (MHJ) |
 | Recommended readings | Bishop Sections 4.1-4.3, Hastie et al Chapter 4 |
 | | Lecture material at https://compphysics.github.io/MLErasmus/doc/web/course.html  day 4 | 
+| | Video at https://www.uio.no/studier/emner/matnat/fys/FYS4411/v21/forelesningsvideoer/LectureJan21.mp4?vrtx=view-as-webpage |
+| | Handwritten notes at https://github.com/CompPhysics/MLErasmus/blob/master/doc/HandwrittenNotes/NotesJan21.pdf  |
 | | - _Laboratory 2pm-5pm_: Computational Exercises (PDBS and KW), exercise sets 2 and 3 |
 | Friday | - _Lecture 9am-1130am_:  Logistic Regression and begin Neural Networks (MHJ) |
 | Recommended readings |  Bishop Sections 5.1-5.5 and Hastie et al chapter 11 |
